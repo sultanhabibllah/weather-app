@@ -100,16 +100,10 @@ Weather data from [OpenWeatherMap.org](https://openweathermap.org/)
 ## **Demo Video**
 
 [Demo Video Link](#)
-*(Add your YouTube, Vimeo, or Drive link here)*
+*(https://drive.google.com/file/d/11bQl08_aeXFfZxseR4bAowHb6gpTeg98/view?usp=sharing)*
 
 ---
 
 **Good luck! If you have any questions, open an issue or contact me.**
 
 ---
-
-### **How to Add Screenshots**
-
-* Create a folder called `screenshots` in your repo.
-* Add your PNG/JPG screenshots there.
-* Update the README image links if your filenames are different.
