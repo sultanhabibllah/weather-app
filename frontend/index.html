@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Weather Search App</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="split-wrapper">
+    <div class="split-image">
+      <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80" alt="Weather background" />
+    </div>
+    <div class="split-content">
+      <h1>
+        <span class="headline-main">Curious about tomorrow?</span>
+        <br>
+        <span class="headline-highlight">See what the weather says.</span>
+      </h1>
+      <p class="headline-desc">
+        Get accurate, up-to-date weather details for any city in seconds.<br>
+        Just type and search below!
+      </p>
+      <div class="search-bar">
+        <input type="text" id="weatherCity" placeholder="Enter a city, e.g. Nairobi" />
+        <button onclick="searchWeather()">Check Weather</button>
+      </div>
+      <div id="weatherResult"></div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
